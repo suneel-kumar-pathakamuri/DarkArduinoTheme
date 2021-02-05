@@ -4,9 +4,7 @@ In this tutorial, I will show you how to install the dark theme for your Arduino
 
 For the reason of overexposure to the screen light of your computer dark themes decreases the danger of eye damage.
 
-### Click on the image to view the project demo - https://youtu.be/T8-qgLb7e5A
-
-[![Working Video](./images/youtube.png)]( https://youtu.be/T8-qgLb7e5A "Working of the Project - Click to Watch!")
+### Click on the image to view the project demo - 
 
 ## Why should the background be dark?
 
